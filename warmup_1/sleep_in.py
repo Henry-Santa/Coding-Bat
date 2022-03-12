@@ -1,7 +1,4 @@
 def sleep_in(weekday, vacation):    
     if (vacation)or not weekday:
         return True
-    return False 
-
-print (sleep_in(False, False))
-
+    return False
